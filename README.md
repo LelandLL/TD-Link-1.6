@@ -1,8 +1,8 @@
 # TD-Link-1.6
-This is the current version of the project
-Screenshots:
+Current Version: 1.6
 
-<img src ="https://cloud.githubusercontent.com/assets/4537361/8268831/31cb0bbc-1756-11e5-958b-ac44bfac9b28.png" width = "800" height = "400"> <img src ="https://cloud.githubusercontent.com/assets/4537361/8270544/8526911c-17a8-11e5-80d7-1b9e53aa4fdc.png" width = "800" height = "400">
+Screenshots: <br>
+<img src ="https://cloud.githubusercontent.com/assets/4537361/8577702/20b46c7e-2570-11e5-84d1-157b58fb50a6.png" width = "450" height = "450"> <img src ="https://cloud.githubusercontent.com/assets/4537361/8577703/22091980-2570-11e5-8223-f6e4a21bcc8d.png" width = "450" height = "450"> <img src ="https://cloud.githubusercontent.com/assets/4537361/8577706/23daf7ce-2570-11e5-861e-3cda83e36239.png" width = "450" height = "450">
 
 My first Game Project- Is building an 2d Platformer/Endless runner with an Tag Action Mechanic.
 <body>
