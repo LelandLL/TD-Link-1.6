@@ -2,7 +2,7 @@
 Current Version: 1.6
 
 Screenshots: <br>
-<img src ="https://cloud.githubusercontent.com/assets/4537361/8577702/20b46c7e-2570-11e5-84d1-157b58fb50a6.png" width = "450" height = "450"> <img src ="https://cloud.githubusercontent.com/assets/4537361/8577703/22091980-2570-11e5-8223-f6e4a21bcc8d.png" width = "450" height = "450"> <img src ="https://cloud.githubusercontent.com/assets/4537361/8577706/23daf7ce-2570-11e5-861e-3cda83e36239.png" width = "450" height = "450">
+<img src ="https://cloud.githubusercontent.com/assets/4537361/8577702/20b46c7e-2570-11e5-84d1-157b58fb50a6.png" width = "650" height = "450"> <img src ="https://cloud.githubusercontent.com/assets/4537361/8577703/22091980-2570-11e5-8223-f6e4a21bcc8d.png" width = "650" height = "450"> <img src ="https://cloud.githubusercontent.com/assets/4537361/8577706/23daf7ce-2570-11e5-861e-3cda83e36239.png" width = "650" height = "450">
 
 My first Game Project- Is building an 2d Platformer/Endless runner with an Tag Action Mechanic.
 <body>
