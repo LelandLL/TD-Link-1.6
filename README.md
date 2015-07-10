@@ -79,6 +79,15 @@ Stage 4- Put finishing touches and build the Tag Mechanic into the game and afte
 
 Begun the project on June 2015 since then project has begun, After Stage 2 is completed, may need the assistance of other game devs.
 
+#Also Want to Thank these sites and Folks who Helped
+
+I also want to make sure that i give credit when it's due
+
+OpenGameArt.org- For letting me using their resources when it comes to Animation and Artwork. The Names of the people who let others use their artwork.(Coming Soon)
+
+And 1001 Fonts for letting me use their fonts for the game.
+
+
 #How to Download it
 
 1. Download the project via Download.Zip
